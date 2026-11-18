@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Temporary CA4 backup archives
+CA4-Deadlock-Detection-ResearchZip*.zip
